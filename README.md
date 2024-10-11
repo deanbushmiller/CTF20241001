@@ -1,9 +1,14 @@
 # CTF20241017
 
 ## 20241011 HASH for ALL SUBMISSIONS
-	All hash value submissions must be in specific format stated at the beginning of the compitition
- 	Consider using the built in kali tool gtkhash and changing the settings to match the CTF requirements
-  	You will only login to the CTF posting site from within the guac/kali instance usign the user/pass supplied at the start.
+	All hash value submissions must be in specific format stated at the beginning of the competition.
+ 	Use the built in tool gtkhash and changing the settings to match the CTF requirements for speed.
+  	You will only login to the CTF posting site from within the guac/kali instance.
+   	For CTF scoreboard if you see the button "submit query" you are not in kali. 
+	User/pass will be supplied at the start in private chat.
+
+## For in competition updates, twist & hints please keep the wiki open.
+https://github.com/deanbushmiller/CTF20241001/wiki
 
 
 # AWS Lab Environment Deployment Guide
