@@ -44,6 +44,7 @@ https://github.com/deanbushmiller/CTF20241001/wiki
 6. Fill in the parameters
  - Name stack:
    - Same as key pairs from above
+   - Must start with letters and have no spaces
  - PublicIpAddress:
    - Your public IPv4 address. ( https://whatismyipaddress.com/ )
  - SSHKeyPair:
