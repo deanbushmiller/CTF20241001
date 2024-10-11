@@ -1,4 +1,10 @@
-# CTF20241001
+# CTF20241017
+
+## 20241011 HASH for ALL SUBMISSIONS
+	All hash value submissions must be in specific format stated at the beginning of the compitition
+ 	Consider using the built in kali tool gtkhash and changing the settings to match the CTF requirements
+  	You will only login to the CTF posting site from within the guac/kali instance usign the user/pass supplied at the start.
+
 
 # AWS Lab Environment Deployment Guide
 	You will not need to install any software locally to run this lab.
