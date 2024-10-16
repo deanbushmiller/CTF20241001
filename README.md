@@ -39,7 +39,7 @@ https://github.com/deanbushmiller/CTF20241001/wiki
 ## Resource Deployment
 1. Search for CloudFormation in service
 2. On right Click Create Stack > With New Resources (standard)
-4. Template source: (available one hour before contest start)
+4. Template source: https://20240311-drb-ctf.s3.amazonaws.com/CAP-flag-20241016v1.yml
 5. Click Next
 6. Fill in the parameters
  - Name stack:
